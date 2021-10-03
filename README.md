@@ -63,6 +63,9 @@
 <a href="https://github.com/ebukaodini/undo-audiomack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebukaodini&repo=undo-audiomack" />
 </a>
+<a href="https://github.com/ebukaodini/chirp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebukaodini&repo=chirp" />
+</a>
 <br /><br /><br /><br />
 
 
