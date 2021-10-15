@@ -24,7 +24,7 @@
 ### 🛠️ My Technology Stack
 <hr />
 
-<center>Here are some of the tech stacks I have worked with and comfortable with.</center> <br />
+<p align="center">Here are some of the tech stacks I have worked with and comfortable with.</p> <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
