@@ -11,12 +11,12 @@
 
 
 ### Menu
-  - [Technology Stack](#🛠️-my-technology-stack)
-  - [Recent Hobby Projects](#🔥-my-recent-hobby-projects)
-  - [Github Stats](#〽️-my-github-stats)
-  - [Language Stats](#〽️-language-stats)
-  - [Github Trophies](#🏆-github-trophies)
-  - [How to reach me](#📫-how-to-reach-me)
+  - [Technology Stack](#-my-technology-stack)
+  - [Recent Hobby Projects](#-my-recent-hobby-projects)
+  - [Github Stats](#-my-github-stats)
+  - [Language Stats](#-language-stats)
+  - [Github Trophies](#-github-trophies)
+  - [How to reach me](#-how-to-reach-me)
 
 <br />
 
