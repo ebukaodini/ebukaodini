@@ -5,8 +5,9 @@
 
   <br />
   And I also love collaboration.
+</p>
 
-  <br />
+<p>
   Here is my <a href="https://github.com/ebukaodini/ebukaodini/blob/main/Ebuka%20Odini%20Resume.pdf">Resume</a>
 </p>
 <br />
