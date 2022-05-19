@@ -95,7 +95,7 @@
 <hr />
 
 <a href="https://github.com/ebukaodini">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebukaodini&langs_count=8&layout=compact&hide=Visual%20Basic%20.NET">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebukaodini&langs_count=8&layout=compact&hide=Visual%20Basic%20.NET,C%20Sharp">
 </a>
 <br /><br /><br /><br />
 
