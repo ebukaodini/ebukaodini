@@ -8,7 +8,8 @@
 </p>
 
 <p>
-  Here is my <a href="https://github.com/ebukaodini/ebukaodini/blob/main/Ebuka%20Odini%20Resume.pdf">Resume</a>
+  Here is my <a href="https://matching.turing.com/developer-resume-preview/d13dd4c5e4086a41946b03ecad5c3f19bdccd1df3846">Turing Profile / Resume</a>
+<!--  https://github.com/ebukaodini/ebukaodini/blob/main/Ebuka%20Odini%20Resume.pdf  -->
 </p>
 <br />
 
@@ -16,10 +17,8 @@
 
 ### Menu
   - [Technology Stack](#-my-technology-stack)
-  - [Recent Hobby Projects](#-my-recent-hobby-projects)
   - [Github Stats](#-my-github-stats)
   - [Language Stats](#-language-stats)
-  - [Github Trophies](#-github-trophies)
   - [How to reach me](#-how-to-reach-me)
 
 <br />
@@ -62,25 +61,6 @@
 <br /><br />
 
 
-### 🔥 My Recent Hobby Projects
-<hr />
-
-<a href="https://github.com/ebukaodini/daily-task">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebukaodini&repo=daily-task&card_width=100" />
-</a>
-<a href="https://github.com/ebukaodini/undo-audiomack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebukaodini&repo=undo-audiomack" />
-</a>
-<a href="https://github.com/ebukaodini/chirp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebukaodini&repo=chirp" />
-</a>
-<a href="https://github.com/ebukaodini/aboutmy-business">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebukaodini&repo=aboutmy-business" />
-</a>
-<br /><br /><br /><br />
-
-
-
 ### 〽️ My Github Stats 
 <hr />
 
@@ -96,16 +76,6 @@
 
 <a href="https://github.com/ebukaodini">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebukaodini&langs_count=6&layout=compact&hide=Visual%20Basic%20.NET,C%23">
-</a>
-<br /><br /><br /><br />
-
-
-
-### 🏆 Github Trophies
-<hr />
-
-<a href="https://github.com/ebukaodini">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebukaodini&theme=algolia&column=4">
 </a>
 <br /><br /><br /><br />
 
