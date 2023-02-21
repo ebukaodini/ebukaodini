@@ -68,7 +68,7 @@
 <a href="mailto:ebukaodini@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://twitter.com/__ebukaodini" target="_blank">
+<a href="https://twitter.com/ebukaodini__" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://dev.to/ebukaodini" target="_blank">
