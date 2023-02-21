@@ -60,15 +60,6 @@
 <br /><br />
 
 
-### 〽️ My Github Stats 
-<hr />
-
-<a href="https://github.com/ebukaodini">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebukaodini&count_private=true&show_icons=true" />
-</a>
-<br /><br /><br /><br />
-
-
 ### 📫 How to reach me
 <hr />
 
