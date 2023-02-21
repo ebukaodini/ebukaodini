@@ -17,7 +17,6 @@
 
 ### Menu
   - [Technology Stack](#-my-technology-stack)
-  - [Github Stats](#-my-github-stats)
   - [How to reach me](#-how-to-reach-me)
 
 <br />
