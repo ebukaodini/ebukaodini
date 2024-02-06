@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Ebuka Odini
 
 <p>
-  I am an innovative software engineer that enjoys learning new technologies to improve product quality.
+  I am an innovative software engineer who enjoys learning new technologies to improve product quality.
 
   <br />
   And I also love collaboration.
