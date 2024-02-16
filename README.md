@@ -8,16 +8,19 @@
 </p>
 
 <p>
-  Here is my <a href="https://matching.turing.com/developer-resume-preview/d13dd4c5e4086a41946b03ecad5c3f19bdccd1df3846">Turing Profile / Resume</a>
-<!--  https://github.com/ebukaodini/ebukaodini/blob/main/Ebuka%20Odini%20Resume.pdf  -->
+  Here is my <a href="https://github.com/ebukaodini/ebukaodini/blob/main/Ebuka%20Odini%20Resume.pdf">Turing Profile / Resume</a>
+ <!-- https://github.com/ebukaodini/ebukaodini/blob/main/Ebuka%20Odini%20Resume.pdf  -->
+ <!-- https://matching.turing.com/developer-resume-preview/d13dd4c5e4086a41946b03ecad5c3f19bdccd1df3846 -->
 </p>
 <br />
 
 
 
 ### Menu
-  - [Technology Stack](#-my-technology-stack)
-  - [How to reach me](#-how-to-reach-me)
+- [👋 Hi there, I'm Ebuka Odini](#-hi-there-im-ebuka-odini)
+  - [Menu](#menu)
+  - [🛠️ My Technology Stack](#️-my-technology-stack)
+  - [📫 How to reach me](#-how-to-reach-me)
 
 <br />
 
